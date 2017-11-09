@@ -1,0 +1,4 @@
+fr\ekinci\aop\RestLogAspect.class
+Application\TryAgainAspect.class
+Service\TryAgain.class
+Service\AspectService.class
